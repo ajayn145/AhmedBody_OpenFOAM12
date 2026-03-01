@@ -1,0 +1,18 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# OpenFOAM generated files
+constant/polyMesh/
+postProcessing/
+processor*/
+*.log
+
+# Tutorials accidentally copied
+pitzDaily/
+
+# Mesh files
+*.msh
+
+# Helper scripts
+Allrun
+Allclean
